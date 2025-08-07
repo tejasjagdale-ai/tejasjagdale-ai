@@ -2,7 +2,8 @@
 
 <img src="https://github.com/tejasjagdale-ai/tejasjagdale-ai/blob/main/TejasJagdale.png" alt="banner that says Tejas Jagdale - Artificial Intelligence Engineer">
 A results-driven Artificial Intelligence Engineer specializing in NLP and Computer Vision. Passionate about building innovative, end-to-end AI/ML solutions that solve complex challenges. Currently leveraging tools like YOLOv8, LangChain, and GPT-4 to accelerate and automate business processes.
-About Me
+<hr>
+# About Me
 I am an AI Engineer with a strong foundation in machine learning, deep learning, and data analysis. My experience involves developing and deploying hands-on AI solutions and contributing to product management and strategy. I have a proven track record of significantly improving operational efficiency, having accelerated a core asset pipeline by 70% and reduced manual data entry errors by over 95% through custom-built Computer Vision and OCR systems.
 <hr>
 
