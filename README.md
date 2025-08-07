@@ -45,6 +45,7 @@ A results-driven Artificial Intelligence Engineer specializing in NLP and Comput
 <p>
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-005571.svg?style=for-the-badge&logo=Kubernetes&logoColor=white"/>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496EEE0000.svg?style=for-the-badge&logo=Docker&logoColor=white"/>
+  <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white"/>
   
 <hr>
 
