@@ -1,10 +1,10 @@
-# Hi, I'm Tejas👋 👨‍💻
+# Hi, I'm Tejas👋👨‍💻
 
 <img src="https://github.com/tejasjagdale-ai/tejasjagdale-ai/blob/main/TejasJagdale.png" alt="banner that says Tejas Jagdale - Artificial Intelligence Engineer">
 A results-driven Artificial Intelligence Engineer specializing in NLP and Computer Vision. Passionate about building innovative, end-to-end AI/ML solutions that solve complex challenges. Currently leveraging tools like YOLOv8, LangChain, and GPT-4 to accelerate and automate business processes.
 <hr>
 
-🚀 Projects
+### Projects🚀
 <p>
 AI Powered Customer Support Email Generator: Built a generative AI tool using GPT-4 and Streamlit to convert brief customer issues into polished, professional email responses with tone customization.
 </p>
