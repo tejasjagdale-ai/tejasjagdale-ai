@@ -5,7 +5,9 @@ A results-driven Artificial Intelligence Engineer specializing in NLP and Comput
 <hr>
 
 🚀 Projects
+<p>
 AI Powered Customer Support Email Generator: Built a generative AI tool using GPT-4 and Streamlit to convert brief customer issues into polished, professional email responses with tone customization.
+</p>
 
 Customer Complaint Ticket Classifier & Summarizer: Deployed a suite of AI-powered customer support automation workflows using n8n and GPT-4 for intelligent email classification, auto-replies, and sentiment analysis.
 
