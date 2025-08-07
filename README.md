@@ -59,3 +59,13 @@ A results-driven Artificial Intelligence Engineer specializing in NLP and Comput
 
 <hr>
 
+### Tools
+
+<p>
+ <img alt="n8n" src="https://img.shields.io/badge/n8n-1A1A1A.svg?style=for-the-badge&logo=n8n&logoColor=white"/>
+ <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white"/>
+ <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black"/>
+
+</p>
+
+
