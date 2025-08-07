@@ -10,6 +10,9 @@ Experienced Artificial Intelligence Engineer with expertise in building custom A
  <a href="https://www.linkedin.com/in/jagdaletejas/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+<a href="https://tejasjagdale.netlify.app/" target="_blank">
+<img src=https://img.shields.io/badge/Website-%844FBA.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 </div>
 
 <hr>
@@ -43,13 +46,7 @@ Experienced Artificial Intelligence Engineer with expertise in building custom A
 <p>
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-005571.svg?style=for-the-badge&logo=Kubernetes&logoColor=white"/>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496EEE0000.svg?style=for-the-badge&logo=Docker&logoColor=white"/>
-  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-.svg?style=for-the-badge&logo=Terraform&logoColor=white"/>
-  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800.svg?style=for-the-badge&logo=Grafana&logoColor=white"/>
-  <img alt="Kibana" src="https://img.shields.io/badge/Kibana-.svg?style=for-the-badge&logo=Kibana&logoColor=white"/>
-  <img alt="Ansible" src="https://img.shields.io/badge/Ansible-.svg?style=for-the-badge&logo=Ansible&logoColor=white"/>
-  <img alt="CloudWatch" src="https://img.shields.io/badge/Amazon%20CloudWatch-.svg?style=for-the-badge&logo=Amazon-CloudWatch&logoColor=white"/>
-</p>  
-
+  
 <hr>
 
 ### Databases:
